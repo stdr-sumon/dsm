@@ -1,5 +1,8 @@
 
 *****How to install Digital School Management (DSM)******
+This project is a web application that aids in the digital administration of a school. There are three different roles here, and
+users can view or alter information based on their role. Users of the system have to initiate use of the system by proving their
+credentials and then they will be redirected to their desire panel. 
 
 ----------------------
 Prerequisites:
